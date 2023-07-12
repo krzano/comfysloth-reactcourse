@@ -1,6 +1,6 @@
 # Comfy Sloth
 
-## Comfy Sloth
+
 
 Project based on John Smilga's React Course.
 
@@ -8,9 +8,19 @@ Project based on John Smilga's React Course.
 
 [LIVE PREVIEW](https://krzano-comfysloth.netlify.app/)
 
-=========================================================
+#   
+# 
+# 
+# 
+#  
+#  
+#  
 
-## Notes
+
+
+
+
+     
 
 ## Customize Project
 
