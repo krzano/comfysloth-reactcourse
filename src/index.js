@@ -9,9 +9,6 @@ import { CartProvider } from './context/cart_context';
 import { UserProvider } from './context/user_context';
 import { Auth0Provider } from '@auth0/auth0-react';
 
-// AUTH0 DOMAIN: dev-curv38mdp3p3yehx.eu.auth0.com
-// AUTH0 CLIENT_ID: JTxoVgasHbWUZU8XjZja3lVSsxfOx6Qj
-
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
 root.render(
