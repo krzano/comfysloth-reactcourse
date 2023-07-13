@@ -13,8 +13,7 @@ Project based on John Smilga's React Course.
 # 
 # 
 #  
-#  
-#  
+#    
 
 
 
